@@ -1,7 +1,7 @@
 package main
 
 import (
-   "2a.pages.dev/rosso/protobuf"
+   "github.com/googleplay-persistent/rosso/protobuf"
    "encoding/json"
    "flag"
    "os"

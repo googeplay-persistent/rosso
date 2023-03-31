@@ -1,4 +1,4 @@
-module 2a.pages.dev/rosso
+module github.com/googleplay-persistent/rosso
 
 go 1.19
 

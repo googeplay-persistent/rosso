@@ -1,7 +1,7 @@
 package main
 
 import (
-   "2a.pages.dev/rosso/strconv"
+   "github.com/googleplay-persistent/rosso/strconv"
    "bytes"
    "embed"
    "fmt"

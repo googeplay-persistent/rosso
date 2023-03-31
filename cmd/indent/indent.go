@@ -1,7 +1,7 @@
 package main
 
 import (
-   "2a.pages.dev/rosso/xml"
+   "github.com/googleplay-persistent/rosso/xml"
    "encoding/json"
    "flag"
    "os"

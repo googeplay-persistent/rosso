@@ -1,7 +1,7 @@
 package http
 
 import (
-   "2a.pages.dev/rosso/strconv"
+   "github.com/googleplay-persistent/rosso/strconv"
    "bufio"
    "bytes"
    "fmt"

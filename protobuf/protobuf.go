@@ -1,7 +1,7 @@
 package protobuf
 
 import (
-   "2a.pages.dev/rosso/strconv"
+   "github.com/googleplay-persistent/rosso/strconv"
    "google.golang.org/protobuf/encoding/protowire"
 )
 

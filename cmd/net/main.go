@@ -1,7 +1,7 @@
 package main
 
 import (
-   "2a.pages.dev/rosso/http"
+   "github.com/googleplay-persistent/rosso/http"
    "bufio"
    "flag"
    "io"
